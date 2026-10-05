@@ -1,0 +1,10 @@
+{
+  "description": "Streamline administrative tasks for maternal and infant health organizations with a secure portal for managing staff records, training, and hiring processes.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
